@@ -1,0 +1,192 @@
+*{padding: 0; margin: 0; border: 0;}
+*,*:before,*:after{-moz-box-sixing: border-box;-webkit-box-sizing: border-box; box-sizing: border-box;}
+:focus, active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;color:#FFF;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: inherit;}
+
+html {
+	scroll-behavior: smooth;
+}
+.page-section {
+	min-height: 100vh;
+	background-image: url(../images/bg-sections.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	position: relative;
+	padding: 74px 0 50px;
+}
+
+.header {
+	position: absolute;
+	z-index: 1;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+.container {
+	max-width: 1270px;
+	margin: 0 auto;
+}
+.header__inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.scroll-btn {
+	padding: 13px 0 40px;
+	text-align: center;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.logo {
+}
+.logo__img {
+}
+.menu {
+}
+.menu__list {
+	display: flex;
+	justify-content: space-between;
+}
+.menu__list-item {
+}
+.menu__list-link {
+	color: #FFF;
+}
+.header__info {
+}
+.header__btn {
+}
+.header__phone {
+}
+
+.top {
+	background-image: url(../images/top-bg.png);
+}
+.top__inner {
+}
+.top__title {
+}
+.top-img {
+}
+.top__text {
+}
+.top__social-list {
+}
+.top__cocial-item {
+}
+.top__social-link {
+}
+.scroll-btn {
+}
+.products {
+}
+.title {
+}
+.products__title {
+}
+.products__inner {
+}
+.products__text {
+}
+.products__slider-box {
+}
+.products__slider-text {
+}
+.products__slider {
+}
+.products__slider-item {
+}
+.products__slider-img {
+}
+.benefits {
+}
+.benefits__items {
+}
+.benefits__item {
+}
+.benefits__num {
+}
+.benefits__img {
+}
+.benefits__info {
+}
+.benefits__info-title {
+}
+.benefits__info-text {
+}
+.specification {
+}
+.specification__inner {
+}
+.specification__item {
+}
+.specification__box {
+}
+.specification__box-title {
+}
+.specification__box-text {
+}
+.questions {
+}
+.questions__items {
+}
+.question__item {
+}
+.question__item-title {
+}
+.question__item-text {
+}
+.contacts {
+}
+.contacts__inner {
+}
+.contacts__info {
+}
+.contacts__info-box {
+}
+.contacts__info-title {
+}
+.contacts__info-phone {
+}
+.contacts__info-email {
+}
+.contacts__form {
+}
+.contacts__form-title {
+}
+.contacts__form-text {
+}
+.contacts__form-line {
+}
+.contacts__form-input {
+}
+.contacts__form-textarea {
+}
+.contacts__form-btn {
+}
+.contacts__social {
+}
+.social__list {
+}
+.social__cocial-item {
+}
+.social__social-link {
+}
+.footer {
+}
+.footer__copy {
+}
